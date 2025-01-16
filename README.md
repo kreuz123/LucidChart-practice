@@ -41,3 +41,7 @@ This project was instrumental in enhancing my understanding of:
 - The importance of clearly documenting business processes.
 - The value of visual tools in identifying process inefficiencies.
 - How structured workflows contribute to better management and operational success.
+
+Author: Chien Chuan Huang
+Course: Business Process
+Institution: Laurea University of Applied Sciences
